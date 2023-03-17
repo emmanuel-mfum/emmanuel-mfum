@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-I am a biology student seeking its way in the incredible world of software development.
-
+Full-stack dev
 
 - 🔭 I’m currently (re-)learning Python
 - 🌱 Next project is to build another full-stack app !
